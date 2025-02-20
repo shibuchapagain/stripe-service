@@ -1,5 +1,5 @@
 {
-  "name": "shiva-stripe-service",
+  "name": "stripe-service",
   "version": "1.0.0",
   "description": "A stripe service with webhook",
   "main": "dist/index.js",
@@ -32,10 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shibuchapagain/pub-sub-redis.git"
+    "url": "https://github.com/shibuchapagain/stripe-service"
   },
   "bugs": {
-    "url": "https://github.com/shibuchapagain/pub-sub-redis/issues"
+    "url": "https://github.com/shibuchapagain/stripe-service/issues"
   },
-  "homepage": "https://github.com/shibuchapagain/pub-sub-redis#readme"
+  "homepage": "https://github.com/shibuchapagain/stripe-service#readme"
 }
